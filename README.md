@@ -47,7 +47,7 @@
 ### Closure 
 - Q&A; Closing Remarks and Feedback 
 
-### Course Instructor: 
+### Course Instructors and organizers: 
 - Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR), New Delhi, India
 - Dr. Gautam Talukdar, Wildlife Institute of India, Dehradun, India
 
