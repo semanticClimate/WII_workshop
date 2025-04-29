@@ -22,8 +22,8 @@
 
 ## Link to the presentations
 
-- ALR Demo Session 1
-- NER Demo Session 2
+- [ALR Demo Session 1](https://github.com/semanticClimate/WII_workshop/blob/main/ALR_INTRO_WII_part1.pdf)
+- [NER Demo Session 2](https://github.com/semanticClimate/WII_workshop/blob/main/WII_NER_part3.pdf)
 
 ## Program Schedule
 
@@ -48,10 +48,10 @@
 - Q&A; Closing Remarks and Feedback 
 
 ### Course Instructor: 
-- Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR), New Delhi, India
+- **Dr. Gitanjali Yadav**, National Institute of Plant Genome Research (NIPGR), New Delhi, India
 
 ### Co-instructors: 
-- Dr. Renu Kumari, Program Manager, semanticClimate
-- Ms. Priti, Ph.D. Student, NIPGR, New Delhi
-- Ms. Shabnam Barbhuiya, Ms. Moobashara Jawed and Mr. Anudev, Interns (National Institute of Plant Genome Research (NIPGR), New Delhi, India)
+- **Dr. Renu Kumari**, Program Manager, semanticClimate
+- **Ms. Priti**, Ph.D. Student, NIPGR, New Delhi
+- **Ms. Shabnam Barbhuiya, Ms. Moobashara Jawed and Mr. Anudev**, Interns (National Institute of Plant Genome Research (NIPGR), New Delhi, India)
 
