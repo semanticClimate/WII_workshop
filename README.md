@@ -48,10 +48,14 @@
 - Q&A; Closing Remarks and Feedback 
 
 ### Course Instructor: 
-- **Dr. Gitanjali Yadav**, National Institute of Plant Genome Research (NIPGR), New Delhi, India
+- Dr. Gitanjali Yadav, National Institute of Plant Genome Research (NIPGR), New Delhi, India
+- Dr. Gautam Talukdar, Wildlife Institute of India, Dehradun, India
 
 ### Co-instructors: 
-- **Dr. Renu Kumari**, Program Manager, semanticClimate
-- **Ms. Priti**, Ph.D. Student, NIPGR, New Delhi
-- **Ms. Shabnam Barbhuiya, Ms. Moobashara Jawed and Mr. Anudev**, Interns (National Institute of Plant Genome Research (NIPGR), New Delhi, India)
+- Dr. Renu Kumari, Program Manager, semanticClimate
+- Ms. Priti, Ph.D. Student, NIPGR, New Delhi
+- Ms. Shabnam Barbhuiya, Ms. Moobashara Jawed and Mr. Anudev, Interns (National Institute of Plant Genome Research (NIPGR), New Delhi, India)
+- Ms. Anindita Debnath, WII, Dehradun, India
+- Dr. Avilekh Naryal, WII, Dehradun, India
+- Mrs. Sneha Pandey, WII, Dehradun, India
 
